@@ -1,0 +1,39 @@
+Parsing Error:
+BroAmsTabCards
+broccoli.nu-tab.com
+CMU Spring Tab Cards
+Columbia Tab  Cards
+crosswords.nu-tab.com
+gw II sellout tab cards
+gwdragrace.nu-tab.com
+Harvard APDA Tab Cards
+hopnov22tabcards
+nu_little_miss_tab_cards
+pennapda tab cards
+pitt_halloween
+Space Cowboys Tab Cards
+swatnov22tabcards
+uvafalltabcards
+
+bad operand type for unary ~: 'float':
+FordhamAPDA22
+
+Column Shifting Error:
+guvalentine.nu-tab.com
+Yale APDA 2023 Tab Cards
+
+Output File Empty:
+tab_cards_www_2023
+WMHarryStyles
+
+WTF:
+tcnj
+
+Working:
+Bing Fall 2022 Tab Cards
+cdsmarchmadness-tab-cards
+debateoff_tabcards
+deisgreatgatsbytabcards
+smithcats.nu-tab.com_
+tabcardswesleyan2023.pdf
+
